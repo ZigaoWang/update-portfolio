@@ -15,13 +15,16 @@ def fetch_repositories(user):
 
 # Generate portfolio content
 def generate_portfolio(repos):
+    # Sort repositories by updated_at in descending order
+    repos = sorted(repos, key=lambda repo: repo['updated_at'], reverse=True)
+
     portfolio = "## Zigao Wang's Project Portfolio\n\n"
     for repo in repos:
         if repo['fork']:
             continue  # Skip forked repositories
         name = repo['name']
-        description = repo['description']
-        language = repo['language']
+        description = repo['description'] if repo['description'] else "No description provided"
+        language = repo['language'] if repo['language'] else "No language specified"
         license = repo['license']['name'] if repo['license'] else "No License"
         updated_at = datetime.strptime(repo['updated_at'], "%Y-%m-%dT%H:%M:%SZ").strftime("%B %d, %Y")
         url = repo['html_url']
