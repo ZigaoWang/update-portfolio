@@ -3,7 +3,7 @@ name: Update Portfolio
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/1 * * * *'  # Runs every minute
+    - cron: '0 0 * * *'  # Runs daily at midnight
   push:
     branches:
       - main
