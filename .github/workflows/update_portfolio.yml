@@ -1,6 +1,7 @@
 name: Update Portfolio
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '*/1 * * * *'  # Runs every minute
   push:
