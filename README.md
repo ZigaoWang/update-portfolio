@@ -1,16 +1,40 @@
 ## Zigao Wang's Project Portfolio
 
+### [github-auto-follow](https://github.com/ZigaoWang/github-auto-follow)
+- **Description**: GitHub Auto Follow is a script that automatically follows users who have starred a specified GitHub repository.
+- **Language**: Python
+- **License**: MIT License
+- **Last Updated**: July 11, 2024
+
 ### [github-auto-star](https://github.com/ZigaoWang/github-auto-star)
 - **Description**: GitHub Auto Star is a Python script that automates the process of starring repositories on a specified GitHub user's repository page.
 - **Language**: Python
 - **License**: MIT License
-- **Last Updated**: July 10, 2024
+- **Last Updated**: July 11, 2024
+
+### [donut-blender](https://github.com/ZigaoWang/donut-blender)
+- **Description**: This repository showcases my journey of learning Blender through a fun and engaging donut rendering project.
+- **Language**: No language specified
+- **License**: MIT License
+- **Last Updated**: July 11, 2024
 
 ### [ai-text-based-game](https://github.com/ZigaoWang/ai-text-based-game)
 - **Description**: This is a text-based adventure game powered by OpenAI's models.
 - **Language**: Python
 - **License**: MIT License
-- **Last Updated**: July 10, 2024
+- **Last Updated**: July 11, 2024
+
+### [blog](https://github.com/ZigaoWang/blog)
+- **Description**: My Personal Hexo Blog Website deployed on Vercel
+- **Language**: HTML
+- **License**: No License
+- **Last Updated**: July 11, 2024
+
+### [daztab](https://github.com/ZigaoWang/daztab)
+- **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
+- **Language**: JavaScript
+- **License**: MIT License
+- **Last Updated**: July 11, 2024
 
 ### [daztab-pitaya](https://github.com/ZigaoWang/daztab-pitaya)
 - **Description**: Domain Transfer Page for DazTab's original domain
@@ -66,27 +90,9 @@
 - **License**: No License
 - **Last Updated**: July 10, 2024
 
-### [daztab](https://github.com/ZigaoWang/daztab)
-- **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
-- **Language**: JavaScript
-- **License**: MIT License
-- **Last Updated**: July 10, 2024
-
 ### [cpp-test](https://github.com/ZigaoWang/cpp-test)
 - **Description**: No description provided
 - **Language**: C++
 - **License**: No License
-- **Last Updated**: July 10, 2024
-
-### [blog](https://github.com/ZigaoWang/blog)
-- **Description**: My Personal Hexo Blog Website deployed on Vercel
-- **Language**: HTML
-- **License**: No License
-- **Last Updated**: July 10, 2024
-
-### [github-auto-follow](https://github.com/ZigaoWang/github-auto-follow)
-- **Description**: GitHub Auto Follow is a script that automatically follows users who have starred a specified GitHub repository.
-- **Language**: Python
-- **License**: MIT License
 - **Last Updated**: July 10, 2024
 
