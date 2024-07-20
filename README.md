@@ -1,16 +1,16 @@
 ## Zigao Wang's Project Portfolio
 
+### [ai-mad-libs](https://github.com/ZigaoWang/ai-mad-libs)
+- **Description**: No description provided
+- **Language**: HTML
+- **License**: No License
+- **Last Updated**: July 19, 2024
+
 ### [github-auto-follow](https://github.com/ZigaoWang/github-auto-follow)
 - **Description**: GitHub Auto Follow is a script that automatically follows users who have starred a specified GitHub repository.
 - **Language**: Python
 - **License**: MIT License
 - **Last Updated**: July 18, 2024
-
-### [github-auto-star](https://github.com/ZigaoWang/github-auto-star)
-- **Description**: GitHub Auto Star is a Python script that automates the process of starring repositories on a specified GitHub user's repository page.
-- **Language**: Python
-- **License**: MIT License
-- **Last Updated**: July 13, 2024
 
 ### [donut-blender](https://github.com/ZigaoWang/donut-blender)
 - **Description**: This repository showcases my journey of learning Blender through a fun and engaging donut rendering project.
