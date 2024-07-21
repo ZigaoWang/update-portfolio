@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [blog](https://github.com/ZigaoWang/blog)
+- **Description**: My Personal Hexo Blog Website deployed on Vercel
+- **Language**: HTML
+- **License**: No License
+- **Last Updated**: July 21, 2024
+
 ### [ai-mad-libs](https://github.com/ZigaoWang/ai-mad-libs)
 - **Description**: No description provided
 - **Language**: HTML
@@ -28,12 +34,6 @@
 - **Description**: This is a text-based adventure game powered by OpenAI's models.
 - **Language**: Python
 - **License**: MIT License
-- **Last Updated**: July 11, 2024
-
-### [blog](https://github.com/ZigaoWang/blog)
-- **Description**: My Personal Hexo Blog Website deployed on Vercel
-- **Language**: HTML
-- **License**: No License
 - **Last Updated**: July 11, 2024
 
 ### [daztab](https://github.com/ZigaoWang/daztab)
