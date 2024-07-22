@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [aigc](https://github.com/ZigaoWang/aigc)
+- **Description**: Zigao 的 AIGC 笔记本
+- **Language**: MDX
+- **License**: MIT License
+- **Last Updated**: July 21, 2024
+
 ### [blog](https://github.com/ZigaoWang/blog)
 - **Description**: My Personal Hexo Blog Website deployed on Vercel
 - **Language**: HTML
@@ -11,12 +17,6 @@
 - **Language**: HTML
 - **License**: No License
 - **Last Updated**: July 19, 2024
-
-### [github-auto-follow](https://github.com/ZigaoWang/github-auto-follow)
-- **Description**: GitHub Auto Follow is a script that automatically follows users who have starred a specified GitHub repository.
-- **Language**: Python
-- **License**: MIT License
-- **Last Updated**: July 18, 2024
 
 ### [donut-blender](https://github.com/ZigaoWang/donut-blender)
 - **Description**: This repository showcases my journey of learning Blender through a fun and engaging donut rendering project.
