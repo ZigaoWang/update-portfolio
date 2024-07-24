@@ -1,10 +1,10 @@
 ## Zigao Wang's Project Portfolio
 
-### [aigc](https://github.com/ZigaoWang/aigc)
-- **Description**: Zigao 的 AIGC 笔记本
+### [ai-notebook](https://github.com/ZigaoWang/ai-notebook)
+- **Description**: Zigao 的 AI 笔记本
 - **Language**: MDX
 - **License**: MIT License
-- **Last Updated**: July 21, 2024
+- **Last Updated**: July 23, 2024
 
 ### [blog](https://github.com/ZigaoWang/blog)
 - **Description**: My Personal Hexo Blog Website deployed on Vercel
