@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [daztab](https://github.com/ZigaoWang/daztab)
+- **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
+- **Language**: JavaScript
+- **License**: MIT License
+- **Last Updated**: July 28, 2024
+
 ### [ai-notebook](https://github.com/ZigaoWang/ai-notebook)
 - **Description**: Zigao 的 AI 笔记本
 - **Language**: MDX
@@ -33,12 +39,6 @@
 ### [ai-text-based-game](https://github.com/ZigaoWang/ai-text-based-game)
 - **Description**: This is a text-based adventure game powered by OpenAI's models.
 - **Language**: Python
-- **License**: MIT License
-- **Last Updated**: July 11, 2024
-
-### [daztab](https://github.com/ZigaoWang/daztab)
-- **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
-- **Language**: JavaScript
 - **License**: MIT License
 - **Last Updated**: July 11, 2024
 
