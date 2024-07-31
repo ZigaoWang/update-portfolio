@@ -1,16 +1,16 @@
 ## Zigao Wang's Project Portfolio
 
-### [3D-Website](https://github.com/ZigaoWang/3D-Website)
+### [cli-snake-game](https://github.com/ZigaoWang/cli-snake-game)
+- **Description**: No description provided
+- **Language**: Python
+- **License**: MIT License
+- **Last Updated**: July 30, 2024
+
+### [ai-mad-libs](https://github.com/ZigaoWang/ai-mad-libs)
 - **Description**: No description provided
 - **Language**: HTML
 - **License**: No License
-- **Last Updated**: July 29, 2024
-
-### [aframe-3d-website](https://github.com/ZigaoWang/aframe-3d-website)
-- **Description**: No description provided
-- **Language**: No language specified
-- **License**: MIT License
-- **Last Updated**: July 29, 2024
+- **Last Updated**: July 30, 2024
 
 ### [daztab](https://github.com/ZigaoWang/daztab)
 - **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
@@ -30,21 +30,9 @@
 - **License**: No License
 - **Last Updated**: July 21, 2024
 
-### [ai-mad-libs](https://github.com/ZigaoWang/ai-mad-libs)
-- **Description**: No description provided
-- **Language**: HTML
-- **License**: No License
-- **Last Updated**: July 19, 2024
-
 ### [donut-blender](https://github.com/ZigaoWang/donut-blender)
 - **Description**: This repository showcases my journey of learning Blender through a fun and engaging donut rendering project.
 - **Language**: No language specified
-- **License**: MIT License
-- **Last Updated**: July 12, 2024
-
-### [cli-snake-game](https://github.com/ZigaoWang/cli-snake-game)
-- **Description**: No description provided
-- **Language**: Python
 - **License**: MIT License
 - **Last Updated**: July 12, 2024
 
