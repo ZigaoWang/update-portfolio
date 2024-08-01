@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [blog](https://github.com/ZigaoWang/blog)
+- **Description**: My Personal Hexo Blog Website deployed on Vercel
+- **Language**: HTML
+- **License**: No License
+- **Last Updated**: July 31, 2024
+
 ### [cli-snake-game](https://github.com/ZigaoWang/cli-snake-game)
 - **Description**: No description provided
 - **Language**: Python
@@ -23,12 +29,6 @@
 - **Language**: MDX
 - **License**: MIT License
 - **Last Updated**: July 23, 2024
-
-### [blog](https://github.com/ZigaoWang/blog)
-- **Description**: My Personal Hexo Blog Website deployed on Vercel
-- **Language**: HTML
-- **License**: No License
-- **Last Updated**: July 21, 2024
 
 ### [donut-blender](https://github.com/ZigaoWang/donut-blender)
 - **Description**: This repository showcases my journey of learning Blender through a fun and engaging donut rendering project.
