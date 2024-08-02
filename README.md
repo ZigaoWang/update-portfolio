@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [AI-Teacher](https://github.com/ZigaoWang/AI-Teacher)
+- **Description**: No description provided
+- **Language**: HTML
+- **License**: MIT License
+- **Last Updated**: August 02, 2024
+
 ### [blog](https://github.com/ZigaoWang/blog)
 - **Description**: My Personal Hexo Blog Website deployed on Vercel
 - **Language**: HTML
