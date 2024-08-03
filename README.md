@@ -2,7 +2,7 @@
 
 ### [AI-Teacher](https://github.com/ZigaoWang/AI-Teacher)
 - **Description**: No description provided
-- **Language**: HTML
+- **Language**: Python
 - **License**: MIT License
 - **Last Updated**: August 02, 2024
 
