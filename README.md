@@ -4,7 +4,7 @@
 - **Description**: No description provided
 - **Language**: Python
 - **License**: MIT License
-- **Last Updated**: August 02, 2024
+- **Last Updated**: August 03, 2024
 
 ### [blog](https://github.com/ZigaoWang/blog)
 - **Description**: My Personal Hexo Blog Website deployed on Vercel
