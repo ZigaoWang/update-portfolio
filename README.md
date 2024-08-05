@@ -2,9 +2,9 @@
 
 ### [AI-Teacher](https://github.com/ZigaoWang/AI-Teacher)
 - **Description**: No description provided
-- **Language**: Python
+- **Language**: HTML
 - **License**: MIT License
-- **Last Updated**: August 03, 2024
+- **Last Updated**: August 04, 2024
 
 ### [blog](https://github.com/ZigaoWang/blog)
 - **Description**: My Personal Hexo Blog Website deployed on Vercel
