@@ -4,7 +4,13 @@
 - **Description**: No description provided
 - **Language**: HTML
 - **License**: MIT License
-- **Last Updated**: August 04, 2024
+- **Last Updated**: August 06, 2024
+
+### [fibonacci-recursion](https://github.com/ZigaoWang/fibonacci-recursion)
+- **Description**: No description provided
+- **Language**: Python
+- **License**: No License
+- **Last Updated**: August 05, 2024
 
 ### [blog](https://github.com/ZigaoWang/blog)
 - **Description**: My Personal Hexo Blog Website deployed on Vercel
