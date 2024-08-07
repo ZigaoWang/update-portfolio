@@ -3,14 +3,20 @@
 ### [AI-Teacher](https://github.com/ZigaoWang/AI-Teacher)
 - **Description**: No description provided
 - **Language**: HTML
-- **License**: MIT License
-- **Last Updated**: August 06, 2024
+- **License**: GNU General Public License v3.0
+- **Last Updated**: August 07, 2024
 
 ### [fibonacci-recursion](https://github.com/ZigaoWang/fibonacci-recursion)
 - **Description**: No description provided
 - **Language**: Python
 - **License**: No License
-- **Last Updated**: August 05, 2024
+- **Last Updated**: August 07, 2024
+
+### [cramers-rule](https://github.com/ZigaoWang/cramers-rule)
+- **Description**: No description provided
+- **Language**: Python
+- **License**: No License
+- **Last Updated**: August 06, 2024
 
 ### [blog](https://github.com/ZigaoWang/blog)
 - **Description**: My Personal Hexo Blog Website deployed on Vercel
