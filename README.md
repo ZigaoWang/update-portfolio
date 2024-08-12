@@ -1,5 +1,17 @@
 ## Zigao Wang's Project Portfolio
 
+### [blog](https://github.com/ZigaoWang/blog)
+- **Description**: My Personal Hexo Blog Website deployed on Vercel
+- **Language**: HTML
+- **License**: No License
+- **Last Updated**: August 11, 2024
+
+### [daztab](https://github.com/ZigaoWang/daztab)
+- **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
+- **Language**: JavaScript
+- **License**: MIT License
+- **Last Updated**: August 11, 2024
+
 ### [ai-voice-assistant](https://github.com/ZigaoWang/ai-voice-assistant)
 - **Description**: No description provided
 - **Language**: Python
@@ -24,12 +36,6 @@
 - **License**: No License
 - **Last Updated**: August 07, 2024
 
-### [blog](https://github.com/ZigaoWang/blog)
-- **Description**: My Personal Hexo Blog Website deployed on Vercel
-- **Language**: HTML
-- **License**: No License
-- **Last Updated**: July 31, 2024
-
 ### [cli-snake-game](https://github.com/ZigaoWang/cli-snake-game)
 - **Description**: No description provided
 - **Language**: Python
@@ -41,12 +47,6 @@
 - **Language**: HTML
 - **License**: No License
 - **Last Updated**: July 30, 2024
-
-### [daztab](https://github.com/ZigaoWang/daztab)
-- **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
-- **Language**: JavaScript
-- **License**: MIT License
-- **Last Updated**: July 28, 2024
 
 ### [ai-notebook](https://github.com/ZigaoWang/ai-notebook)
 - **Description**: Zigao 的 AI 笔记本
