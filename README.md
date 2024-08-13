@@ -1,5 +1,17 @@
 ## Zigao Wang's Project Portfolio
 
+### [ai-voice-assistant](https://github.com/ZigaoWang/ai-voice-assistant)
+- **Description**: No description provided
+- **Language**: Python
+- **License**: MIT License
+- **Last Updated**: August 12, 2024
+
+### [ai-teacher](https://github.com/ZigaoWang/ai-teacher)
+- **Description**: No description provided
+- **Language**: HTML
+- **License**: GNU General Public License v3.0
+- **Last Updated**: August 12, 2024
+
 ### [blog](https://github.com/ZigaoWang/blog)
 - **Description**: My Personal Hexo Blog Website deployed on Vercel
 - **Language**: HTML
@@ -12,22 +24,10 @@
 - **License**: MIT License
 - **Last Updated**: August 11, 2024
 
-### [ai-voice-assistant](https://github.com/ZigaoWang/ai-voice-assistant)
-- **Description**: No description provided
-- **Language**: Python
-- **License**: MIT License
-- **Last Updated**: August 08, 2024
-
 ### [cramers-rule](https://github.com/ZigaoWang/cramers-rule)
 - **Description**: No description provided
 - **Language**: Python
 - **License**: No License
-- **Last Updated**: August 08, 2024
-
-### [ai-teacher](https://github.com/ZigaoWang/ai-teacher)
-- **Description**: No description provided
-- **Language**: HTML
-- **License**: GNU General Public License v3.0
 - **Last Updated**: August 08, 2024
 
 ### [fibonacci-recursion](https://github.com/ZigaoWang/fibonacci-recursion)
