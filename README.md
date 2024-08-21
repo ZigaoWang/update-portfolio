@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [easter-egg-web-search](https://github.com/ZigaoWang/easter-egg-web-search)
+- **Description**: Easter Egg Web Search is a playful web application that provides a search bar with a Rick Roll and Whistle memes.
+- **Language**: JavaScript
+- **License**: MIT License
+- **Last Updated**: August 20, 2024
+
 ### [ai-voice-assistant](https://github.com/ZigaoWang/ai-voice-assistant)
 - **Description**: No description provided
 - **Language**: Python
@@ -29,12 +35,6 @@
 - **Language**: Python
 - **License**: No License
 - **Last Updated**: August 08, 2024
-
-### [fibonacci-recursion](https://github.com/ZigaoWang/fibonacci-recursion)
-- **Description**: No description provided
-- **Language**: Python
-- **License**: No License
-- **Last Updated**: August 07, 2024
 
 ### [cli-snake-game](https://github.com/ZigaoWang/cli-snake-game)
 - **Description**: No description provided
