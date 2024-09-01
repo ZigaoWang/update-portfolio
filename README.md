@@ -1,22 +1,22 @@
 ## Zigao Wang's Project Portfolio
 
-### [easter-egg-web-search](https://github.com/ZigaoWang/easter-egg-web-search)
-- **Description**: Easter Egg Web Search is a playful web application that provides a search bar with a Rick Roll and Whistle memes.
-- **Language**: JavaScript
+### [ai-voice-assistant](https://github.com/ZigaoWang/ai-voice-assistant)
+- **Description**: No description provided
+- **Language**: Python
 - **License**: MIT License
-- **Last Updated**: August 28, 2024
+- **Last Updated**: August 31, 2024
 
 ### [ai-teacher](https://github.com/ZigaoWang/ai-teacher)
 - **Description**: AI Teacher is an interactive web application designed to help middle school students learn English.
 - **Language**: HTML
 - **License**: GNU General Public License v3.0
-- **Last Updated**: August 26, 2024
+- **Last Updated**: August 31, 2024
 
-### [ai-voice-assistant](https://github.com/ZigaoWang/ai-voice-assistant)
-- **Description**: No description provided
-- **Language**: Python
+### [easter-egg-web-search](https://github.com/ZigaoWang/easter-egg-web-search)
+- **Description**: Easter Egg Web Search is a playful web application that provides a search bar with a Rick Roll and Whistle memes.
+- **Language**: JavaScript
 - **License**: MIT License
-- **Last Updated**: August 17, 2024
+- **Last Updated**: August 31, 2024
 
 ### [blog](https://github.com/ZigaoWang/blog)
 - **Description**: My Personal Hexo Blog Website deployed on Vercel
