@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [daztab](https://github.com/ZigaoWang/daztab)
+- **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
+- **Language**: JavaScript
+- **License**: MIT License
+- **Last Updated**: September 09, 2024
+
 ### [ai-teacher](https://github.com/ZigaoWang/ai-teacher)
 - **Description**: AI Teacher is an interactive web application designed to help middle school students learn English.
 - **Language**: HTML
@@ -22,12 +28,6 @@
 - **Description**: My Personal Hexo Blog Website deployed on Vercel
 - **Language**: HTML
 - **License**: No License
-- **Last Updated**: August 11, 2024
-
-### [daztab](https://github.com/ZigaoWang/daztab)
-- **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
-- **Language**: JavaScript
-- **License**: MIT License
 - **Last Updated**: August 11, 2024
 
 ### [cramers-rule](https://github.com/ZigaoWang/cramers-rule)
