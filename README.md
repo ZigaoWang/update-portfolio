@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [donut-blender](https://github.com/ZigaoWang/donut-blender)
+- **Description**: This repository showcases my journey of learning Blender through a fun and engaging donut rendering project.
+- **Language**: No language specified
+- **License**: MIT License
+- **Last Updated**: September 20, 2024
+
 ### [ai-teacher](https://github.com/ZigaoWang/ai-teacher)
 - **Description**: AI Teacher is an interactive web application designed to help middle school students learn English.
 - **Language**: HTML
@@ -99,12 +105,6 @@
 ### [cli-snake-game](https://github.com/ZigaoWang/cli-snake-game)
 - **Description**: No description provided
 - **Language**: Python
-- **License**: MIT License
-- **Last Updated**: September 16, 2024
-
-### [donut-blender](https://github.com/ZigaoWang/donut-blender)
-- **Description**: This repository showcases my journey of learning Blender through a fun and engaging donut rendering project.
-- **Language**: No language specified
 - **License**: MIT License
 - **Last Updated**: September 16, 2024
 
