@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [daztab](https://github.com/ZigaoWang/daztab)
+- **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
+- **Language**: JavaScript
+- **License**: MIT License
+- **Last Updated**: September 21, 2024
+
 ### [donut-blender](https://github.com/ZigaoWang/donut-blender)
 - **Description**: This repository showcases my journey of learning Blender through a fun and engaging donut rendering project.
 - **Language**: No language specified
@@ -82,12 +88,6 @@
 - **Description**: No description provided
 - **Language**: C++
 - **License**: No License
-- **Last Updated**: September 16, 2024
-
-### [daztab](https://github.com/ZigaoWang/daztab)
-- **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
-- **Language**: JavaScript
-- **License**: MIT License
 - **Last Updated**: September 16, 2024
 
 ### [ai-text-based-game](https://github.com/ZigaoWang/ai-text-based-game)
