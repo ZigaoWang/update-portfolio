@@ -4,7 +4,7 @@
 - **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
 - **Language**: JavaScript
 - **License**: MIT License
-- **Last Updated**: September 29, 2024
+- **Last Updated**: October 01, 2024
 
 ### [donut-blender](https://github.com/ZigaoWang/donut-blender)
 - **Description**: This repository showcases my journey of learning Blender through a fun and engaging donut rendering project.
