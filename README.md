@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [ai-voice-assistant](https://github.com/ZigaoWang/ai-voice-assistant)
+- **Description**: No description provided
+- **Language**: Python
+- **License**: MIT License
+- **Last Updated**: October 15, 2024
+
 ### [daztab](https://github.com/ZigaoWang/daztab)
 - **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
 - **Language**: JavaScript
@@ -118,11 +124,5 @@
 - **Description**: No description provided
 - **Language**: Python
 - **License**: No License
-- **Last Updated**: September 16, 2024
-
-### [ai-voice-assistant](https://github.com/ZigaoWang/ai-voice-assistant)
-- **Description**: No description provided
-- **Language**: Python
-- **License**: MIT License
 - **Last Updated**: September 16, 2024
 
