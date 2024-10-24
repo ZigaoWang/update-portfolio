@@ -4,7 +4,7 @@
 - **Description**: AI Teacher is an interactive web application designed to help middle school students learn English.
 - **Language**: HTML
 - **License**: GNU General Public License v3.0
-- **Last Updated**: October 18, 2024
+- **Last Updated**: October 23, 2024
 
 ### [ai-voice-assistant](https://github.com/ZigaoWang/ai-voice-assistant)
 - **Description**: No description provided
