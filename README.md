@@ -4,19 +4,19 @@
 - **Description**: AI Teacher is an interactive web application designed to help middle school students learn English.
 - **Language**: HTML
 - **License**: GNU General Public License v3.0
-- **Last Updated**: October 23, 2024
+- **Last Updated**: November 01, 2024
 
 ### [ai-voice-assistant](https://github.com/ZigaoWang/ai-voice-assistant)
 - **Description**: No description provided
 - **Language**: Python
 - **License**: MIT License
-- **Last Updated**: October 15, 2024
+- **Last Updated**: November 01, 2024
 
 ### [daztab](https://github.com/ZigaoWang/daztab)
 - **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
 - **Language**: JavaScript
 - **License**: MIT License
-- **Last Updated**: October 13, 2024
+- **Last Updated**: November 01, 2024
 
 ### [donut-blender](https://github.com/ZigaoWang/donut-blender)
 - **Description**: This repository showcases my journey of learning Blender through a fun and engaging donut rendering project.
