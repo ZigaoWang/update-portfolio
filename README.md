@@ -1,5 +1,11 @@
 ## Zigao Wang's Project Portfolio
 
+### [cpp-usaco](https://github.com/ZigaoWang/cpp-usaco)
+- **Description**: C++ 信息学奥赛一本通 + USACO
+- **Language**: C++
+- **License**: No License
+- **Last Updated**: November 13, 2024
+
 ### [daztab](https://github.com/ZigaoWang/daztab)
 - **Description**: DazTab is a Chrome Extension that replaces your browser new tab page into a macOS-styled dashboard.
 - **Language**: JavaScript
@@ -81,12 +87,6 @@
 ### [cobridge](https://github.com/ZigaoWang/cobridge)
 - **Description**: No description provided
 - **Language**: HTML
-- **License**: No License
-- **Last Updated**: September 16, 2024
-
-### [cpp-usaco](https://github.com/ZigaoWang/cpp-usaco)
-- **Description**: C++ 信息学奥赛一本通 + USACO
-- **Language**: C++
 - **License**: No License
 - **Last Updated**: September 16, 2024
 
